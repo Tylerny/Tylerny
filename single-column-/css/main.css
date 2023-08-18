@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    margin:0;
+    font-family: sans-serif
+}
+
+.single-column{
+}backgroun-color:yellow;
+width: 50%;
+min-width: 500px;
+max-width 1200px;
+max-width:1200px
+/*Make the left column become a right column! */
+margin-left: auto;
+margin-right: auto;
+
+
+.light-cotainer{
+    background-colorlavender
+    padding: 48px 0px;
+
+}
+
+
+.dark-container{
+    background: color # -13d 1px;
+    color:white;
+    padding:48px 0px
+}
