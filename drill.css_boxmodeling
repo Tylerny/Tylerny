@@ -1,0 +1,38 @@
+/* Drill 1 - Write your code solution below */
+#d1-div2 {
+    margin-top: 24 px;
+
+}
+
+/* Drill 2 - Write your code solution below */
+#d2-div2 {
+    margin: 24px; 0px;
+
+}
+
+/* Drill 3 - Write your code solution below */
+#d3-div2 
+[
+    margin-bottom: 24 px
+]
+
+/* Drill 4 - Write your code solution below */
+#d4-div2 {
+    margin: 24px 0px
+}
+
+/* Drill 5 - Write your code solution below */
+#d5-h5 {
+    margin: bottom: 0px
+}
+.d5-h2
+
+/* Drill 6 - Write your code solution below */
+#d6-div {
+    margin-right: 48px
+}
+
+/* Drill 7 - Write your code solution below */
+#d7-div {
+    margin: 48 px;
+}
