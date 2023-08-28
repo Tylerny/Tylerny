@@ -1,0 +1,47 @@
+/*{
+    box-sizing
+
+    body{
+     margin:0px
+     font-family: sans serif;
+
+    }
+
+    section1:{
+        padding:24px;
+        margin:100vh;
+
+    }
+    
+    section-1{
+    background: url("../images/treasure-map.webp");
+        background-size: cover
+        background-position: center-center
+
+    }
+
+    .card-container
+    display:flex;
+    flex-wrap: wrap;
+    align-items: flex-starts
+
+}
+
+#section1. example.card{
+   max-width:  350px
+   margin: 16px;
+   box-shadow: 4px 4px
+
+
+
+
+
+    Write your CSS for the assignment here.
+
+    You shouldn't need to modify the HTML;
+    however, you are allowed to. 
+    
+    Just be aware that you may break some
+    of the setup.css styling if you do so.
+*/
+

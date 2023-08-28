@@ -1,0 +1,38 @@
+/* Drill 1 - Write your code solution below */
+#container-d1{
+    display:gridgrid-template-column: 1fr 1fr;
+}
+
+/* Drill 2 - Write your code solution below */
+#container-d2{
+    display:grid
+    template-column: 1fr 2fr 1fr;
+}
+
+/* Drill 3 - Write your code solution below */
+#container-d3{
+    display:grid
+    grid-template-column: 1fr 2fr 3fr
+}
+
+/* Drill 4 - Write your code solution below */
+#container-d4{
+    display:grid
+    grid-template-column: 1fr 2fr 3fr
+
+}
+
+/* Drill 5 - Write your code solution below */
+#container-d5{
+    display:grid
+    grid-template-area
+    'one one'
+    'two three'
+}
+
+/* Drill 6 - Write your code solution below */
+#container-d6{
+    display:grid
+    grid-template-area
+    
+}
