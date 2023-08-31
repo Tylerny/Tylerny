@@ -1,0 +1,84 @@
+*{
+    box-sizing: border-box;
+} 
+body{
+    margin: 0px;
+    font-family: sans-serif;
+}
+#hero1{
+    background-image: url("../images/limages/lizard.jpg");
+    height:100vh;
+    background-size:cover;
+    background-position: center center;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+#hero-1 h1{
+    font size: 15w;
+    padding-left: 10vw;
+}
+
+.spacer{
+    height:100vh
+}
+
+*{
+    box-sizing:border-box
+
+body}
+margin: 0px;
+font family: sans serif;
+}
+.spacer{
+    height: 100vh;
+}
+
+#hero-2{
+background-image:url("../images/lonely-ocean.jpg");
+height:100vh;
+background-position: center center;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-end;
+
+}
+
+#hero-2 h4{
+    font-size: 3vw;
+    margin: 0px 5vw 0px 0px;
+}
+
+#hero-2 a{
+    font-size: 1.5vw;
+    display: inline-block;
+    background-color: #333333;
+    text-decortation: none;
+    padding: 24px;
+}
+
+*{
+    box-sizing: border-box
+}
+body{
+    margin: 0px
+    font-family: sans serif;
+}
+
+.spacer{
+    height:100vh;
+}
+#hero-3{
+    background-image: url("../images/orange-wildflowers.jpg");
+    height: 100vh
+    background-size: cover;
+    background-position: center center;
+    
+}
+
+
+
+
+    
