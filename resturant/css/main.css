@@ -3,12 +3,12 @@
 
 }
 boddy{
-    margin:0px
+    margin:0px;
     font-family: sans-serif;
 }
 
 #Navbar{
-    background: linear-gradient(to bottom, green, #3e6d3e)
+    background: linear-gradient(to bottom, green, #3e6d3e);
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -19,7 +19,7 @@ boddy{
 #navbar a{
     text-decoration: none;
     color: white;
-    padding: 24px
+    padding: 24px;
 }
 
 #navbar{
@@ -32,10 +32,10 @@ boddy{
 }
 
 #navbar .cta-button{
-    background-color: white
-    color: green
-    border-radius: 36px
-    padding: 16px 24px:#3e6d3e
+    background-color: white;
+    color: green;
+    border-radius: 36px; 
+    padding: 16px 24px:#3e6d3e;
     font-weight: bold;
     min-width: 150px;
     text-align: center;
@@ -46,11 +46,11 @@ boddy{
     width: 800px;
     margin: 48px auto;
     font-size: 24px;
-    height: 200vh
+    height: 200vh;
 }
 
 #navbar-bottom{
-    background: linear-gradient(to bottom, yellowgreen)
+    background: linear-gradient(to bottom, yellowgreen);
     olive);
     display: flex;
     justify-content; space-between;
@@ -70,7 +70,7 @@ boddy{
 #footer{
     background: linear-gradient(to bottom, teal, #01482e);
     color: white;
-    padding: 12px
+    padding: 12px;
 }
 
 #footer a{
